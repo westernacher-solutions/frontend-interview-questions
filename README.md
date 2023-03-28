@@ -2,6 +2,8 @@
 
 ## JS/TS
 
+- What is truthiness and falsiness in JS?
+- Why use the `===` operator over the `==` operator?
 - What is a promise?
 - How to implement a promise yourself? (plain JS, no library, no `new Promise()` no `async`)
 - What is rxjs?
