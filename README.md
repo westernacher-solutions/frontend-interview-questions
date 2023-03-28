@@ -47,3 +47,4 @@ function myRandom(numbers: Number[], pickRandomValueFn: (numbers: Number[]) => N
 ## Example tasks
 
 - What would you do, if you were tasked with writing unit tests for the `+` operator?
+- Simple unit test https://stackblitz.com/edit/node-1plthi?file=test.js,trim-response.js
