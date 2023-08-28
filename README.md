@@ -1,4 +1,24 @@
-# frontend-interview-questions
+# General interviewing approach
+
+STAR pattern:
+- situation (how difficult was the task? what was the exact sitiuation? any impediments?)
+- task (who gave the task? who assisted/helped/collaborated? what was the goal?)
+- action (what exactly did you do? how? detail the steps you took!)
+- result (can you detail the achieved result? was it good? what relevance did it have?)
+
+In case there is little work experience in the CV we ask critical incident questions such as:
+- Imagine the following situation: … How do you go about solving a, b, c …?
+
+General questions:
+- How do you organize your day?
+- Give an example where you came up with a novel/original solution for an existing problem!
+- Tell me about the most complex concept you've written thus far!
+- Name three instances when you praised co-workers? Name three instances when co-workers praised you?
+- In what areas have you developed the most in the last years? 
+- What is loose coupling?
+- What is the "web"? What are web technologies? Name important stakeholders and institutions!
+
+# Frontend interview questions
 
 ## JS/TS
 
